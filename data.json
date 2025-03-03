@@ -1,14 +1,14 @@
 {
-	"wens-haelo-pro":{
+	"theme-palace-fse-pro":{
 		"demo_name":"Theme Palace FSE Pro",
 		"demo_url":"WENS Halo Pro"
 	},
-	"wens-vivid-pro":{
+	"theme-palace-fse-pro-dark":{
 		"demo_name":"Theme Palace FSE Pro Dark",
 		"demo_url":"WENS Halo Pro"
 	},
-	"wens-agrovibe-pro":{
-		"demo_name":"Travel Master FSE",
+	"travel-master-fse-pro":{
+		"demo_name":"Travel Master FSE Pro",
 		"demo_url":"WENS Halo Pro"
 	}
 }
