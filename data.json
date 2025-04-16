@@ -1,14 +1,27 @@
 {	
 	"travel-master-fse-pro":{
 		"demo_name": "Travel Master Pro",
-		"demo_url": "https://themepalacedemo.com/travel-master-fse-pro/"
+		"demo_url": "https://themepalacedemo.com/travel-master-fse-pro/",
+		"plugins_slug": { 
+		    "contact-form-7": "contact-form-7/wp-contact-form-7.php",
+		    "wp-travel": "wp-travel/wp-travel.php",
+		    "wp-travel-blocks": "wp-travel-blocks/wp-travel-blocks.php"
+		}
 	},
 	"themepalace-fse-pro-dark":{
 		"demo_name":"Default Pro Dark",
-		"demo_url":"https://themepalacedemo.com/themepalace-fse-pro-dark/"
+		"demo_url":"https://themepalacedemo.com/themepalace-fse-pro-dark/",
+		"plugins_slug": { 
+		    "contact-form-7": "contact-form-7/wp-contact-form-7.php",
+		    "wp-travel": "wp-travel/wp-travel.php"
+		}
 	},
 	"themepalace-fse-pro":{
 		"demo_name":"Default Pro",
-		"demo_url":"https://themepalacedemo.com/themepalace-fse-pro/"
+		"demo_url":"https://themepalacedemo.com/themepalace-fse-pro/",
+		"plugins_slug": { 
+		    "contact-form-7": "contact-form-7/wp-contact-form-7.php",
+		    "wp-travel": "wp-travel/wp-travel.php"
+		}
 	}
 }
