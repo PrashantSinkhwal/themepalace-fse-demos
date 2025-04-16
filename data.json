@@ -12,16 +12,14 @@
 		"demo_name":"Default Pro Dark",
 		"demo_url":"https://themepalacedemo.com/themepalace-fse-pro-dark/",
 		"plugins_slug": { 
-		    "contact-form-7": "contact-form-7/wp-contact-form-7.php",
-		    "wp-travel": "wp-travel/wp-travel.php"
+		    "contact-form-7": "contact-form-7/wp-contact-form-7.php"
 		}
 	},
 	"themepalace-fse-pro":{
 		"demo_name":"Default Pro",
 		"demo_url":"https://themepalacedemo.com/themepalace-fse-pro/",
 		"plugins_slug": { 
-		    "contact-form-7": "contact-form-7/wp-contact-form-7.php",
-		    "wp-travel": "wp-travel/wp-travel.php"
+		    "contact-form-7": "contact-form-7/wp-contact-form-7.php"
 		}
 	}
 }
