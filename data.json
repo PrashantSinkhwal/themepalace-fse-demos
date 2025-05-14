@@ -1,5 +1,12 @@
 {	
 	"travel-master-fse-pro":{
+		"demo_name": "Themepalase Fashora Pro",
+		"demo_url": "https://themepalacedemo.com/themepalace-fashora-pro/",
+		"plugins_slug": { 
+		    "contact-form-7": "contact-form-7/wp-contact-form-7.php"
+		}
+	},
+	"travel-master-fse-pro":{
 		"demo_name": "Travel Master Pro",
 		"demo_url": "https://themepalacedemo.com/travel-master-fse-pro/",
 		"plugins_slug": { 
