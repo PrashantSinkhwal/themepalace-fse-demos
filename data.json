@@ -1,4 +1,11 @@
 {	
+	"themepalace-business-pro":{
+		"demo_name": "Themepalace Business Pro",
+		"demo_url": "https://themepalacedemo.com/themepalace-business-pro/",
+		"plugins_slug": { 
+		    "contact-form-7": "contact-form-7/wp-contact-form-7.php"
+		}
+	},
 	"themepalace-fashora-pro":{
 		"demo_name": "Themepalace Fashora Pro",
 		"demo_url": "https://themepalacedemo.com/themepalace-fashora-pro/",
