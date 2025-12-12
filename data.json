@@ -1,4 +1,11 @@
 {	
+	"tp-blogist-pro":{
+		"demo_name": "TP Blogist Pro",
+		"demo_url": "https://themepalacedemo.com/tp-blogist-pro/",
+		"plugins_slug": { 
+		    "contact-form-7": "contact-form-7/wp-contact-form-7.php"
+		}
+	},
 	"themepalace-business-pro":{
 		"demo_name": "Themepalace Business Pro",
 		"demo_url": "https://themepalacedemo.com/themepalace-business-pro/",
